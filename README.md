@@ -1,8 +1,9 @@
-# React + Vite
+#Sitio web clone netflix con React y Vite
+##Organización de carpetas y archivos con Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+###Se usa axios, firebase, redux, router
 
-Currently, two official plugins are available:
+###Creación de los jsx de los componentes y sus css
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Nav
+
