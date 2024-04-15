@@ -1,4 +1,25 @@
 .nav{
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  height: 15vh;
+  /* background-color: red; */
+}
+.nav__logo{
+  height: 80%;
+  margin-left: 2%;
+}
+/* .nav__menu{
+  width: 70%;
+  background-color: red;
+} */
+/* .nav__menu a{
+  text-decoration: none;
+  color:#fff;
+  font-size: 2rem;
+  margin: 3em;
+} */
+.nav__avatar{
+  height: 50%;
+  margin-right: 2%;
 }
