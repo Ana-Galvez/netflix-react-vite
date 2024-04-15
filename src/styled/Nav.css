@@ -2,12 +2,16 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position:sticky;
+  top:0;
   height: 15vh;
-  /* background-color: red; */
+  opacity: 50%;
+  background-color: #000;
 }
 .nav__logo{
   height: 80%;
   margin-left: 2%;
+  cursor:pointer;
 }
 /* .nav__menu{
   width: 70%;
@@ -22,4 +26,7 @@
 .nav__avatar{
   height: 50%;
   margin-right: 2%;
+}
+.nav__avatar:hover{
+  opacity: 50%;
 }
