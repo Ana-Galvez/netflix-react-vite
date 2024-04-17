@@ -4,7 +4,7 @@
   align-items: center;
   position:sticky;
   top:0;
-  height: 15vh;
+  height: 10vh;
   opacity: 80%;
   background-color: #000;
 }
@@ -26,6 +26,7 @@
 .nav__avatar{
   height: 50%;
   margin-right: 2%;
+  cursor: pointer;
 }
 .nav__avatar:hover{
   opacity: 50%;
