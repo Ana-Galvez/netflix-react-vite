@@ -1,4 +1,5 @@
 #Sitio web clone netflix con React y Vite
+
 ##Organización de carpetas y archivos con Vite
 
 ###Se va a usar axios(instalado con npm), firebase, redux, router
